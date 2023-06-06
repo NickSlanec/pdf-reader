@@ -1,1 +1,1 @@
-# pdf-reader
+## Basic PDF reader mainly to read tables from a pdf into a csv
